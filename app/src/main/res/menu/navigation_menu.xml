@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_user_profile"
+          android:icon="@drawable/usr"
+          android:title="@string/menu_user_profile"/>
+
+    <item android:id="@+id/nav_payments"
+        android:icon="@drawable/paymnt"
+          android:title="@string/menu_payments"/>
+
+    <item android:id="@+id/nav_bookings"
+        android:icon="@drawable/bking"
+        android:title="@string/menu_bookings"/>
+
+    <item android:id="@+id/nav_refer_and_earn"
+        android:icon="@drawable/refernearn"
+        android:title="@string/menu_refer_and_earn"/>
+
+    <item android:id="@+id/nav_help"
+        android:icon="@drawable/help"
+        android:title="@string/menu_help"/>
+
+    <item android:id="@+id/nav_about_us"
+        android:icon="@drawable/abtus"
+        android:title="@string/menu_about_us"/>
+
+    <item android:id="@+id/nav_terms_and_conditions"
+        android:icon="@drawable/tnc"
+        android:title="@string/menu_terms_and_conditions"/>
+
+</menu>
